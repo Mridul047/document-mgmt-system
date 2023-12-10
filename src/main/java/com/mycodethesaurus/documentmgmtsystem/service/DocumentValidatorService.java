@@ -1,7 +1,7 @@
 package com.mycodethesaurus.documentmgmtsystem.service;
 
 import com.mycodethesaurus.documentmgmtsystem.entity.DocumentEntity;
-import com.mycodethesaurus.documentmgmtsystem.model.Document;
+import com.mycodethesaurus.documentmgmtsystem.model.domain.Document;
 import com.mycodethesaurus.documentmgmtsystem.model.DocumentRequestPayload;
 import com.mycodethesaurus.documentmgmtsystem.model.DocumentResponsePayload;
 import com.mycodethesaurus.documentmgmtsystem.repository.DocumentRepository;

@@ -1,4 +1,4 @@
-package com.mycodethesaurus.documentmgmtsystem.model;
+package com.mycodethesaurus.documentmgmtsystem.model.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
