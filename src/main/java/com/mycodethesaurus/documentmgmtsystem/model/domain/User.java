@@ -1,5 +1,6 @@
-package com.mycodethesaurus.documentmgmtsystem.controller.model;
+package com.mycodethesaurus.documentmgmtsystem.model.domain;
 
+import com.mycodethesaurus.documentmgmtsystem.model.domain.Role;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
