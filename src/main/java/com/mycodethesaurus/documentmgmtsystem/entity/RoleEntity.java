@@ -19,8 +19,8 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class RoleEntity {
   @Id
-  @GeneratedValue(strategy = GenerationType.AUTO)
-  private String id;
+  @GeneratedValue(strategy = GenerationType.IDENTITY)
+  private Long id;
 
   @Column(name = "access") // owner or viewer
   private String access;
