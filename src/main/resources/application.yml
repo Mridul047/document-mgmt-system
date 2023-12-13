@@ -1,3 +1,9 @@
+tempFile: D:\WORKSPACE\document-mgmt-system\tmpFiles
+
+#logging:
+#  level:
+#    root: debug
+
 server:
   port: 8080
 
